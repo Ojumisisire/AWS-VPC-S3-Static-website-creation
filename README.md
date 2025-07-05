@@ -80,7 +80,7 @@ This project demonstrates the process of building a secure and scalable network 
 ### Screenshots:
 ![Public EC2 Instance](Screenshots/CreatePublicInstance.png)
 ![Public EC2 Instance](Screenshots/CreatePublicInstance2.png)
-![Private EC2 Instance](Screenshots/CreatePrivateInstance.png)
+
 
 ---
 
