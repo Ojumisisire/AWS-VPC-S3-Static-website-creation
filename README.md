@@ -35,11 +35,11 @@ This project demonstrates the process of building a secure and scalable network 
 - **Private Subnet:** `10.0.2.0/24`
 
 ### Screenshots:
-![VPC Configuration](screenshots/VPCcreation.png)
-![VPC Configuration2](screenshots/VPCsuccess.png)
-![Subnets Created](screenshots/Subnetscreated.png)
-![Public Subnet Created](screenshots/PublicSubnet.png)
-![Private Subnet Created](screenshots/PrivateSubnet.png)
+![VPC Configuration](Screenshots/VPCcreation.png)
+![VPC Configuration2](Screenshots/VPCsuccess.png)
+![Subnets Created](Screenshots/Subnetscreated.png)
+![Public Subnet Created](Screenshots/PublicSubnet.png)
+![Private Subnet Created](Screenshots/PrivateSubnet.png)
 
 ---
 
@@ -49,8 +49,8 @@ This project demonstrates the process of building a secure and scalable network 
 - Created and attached an Internet Gateway (`MyIGW`) to the VPC
 
 ### Screenshot:
-![Internet Gateway Setup](screenshots/CreateInternetGateway.png)
-![Attaching IGW to VPC](screenshots/IGWtoVPC.png)
+![Internet Gateway Setup](Screenshots/CreateInternetGateway.png)
+![Attaching IGW to VPC](Screenshots/IGWtoVPC.png)
 
 ### Route Table
 - Created a **custom route table** named `PublicRouteTable`
@@ -58,8 +58,8 @@ This project demonstrates the process of building a secure and scalable network 
 - Associated this route table with the **public subnet** only
 
 ### Screenshot:
-![Route Table Setup](screenshots/CreatingRouteTable.png)
-![Route Table Setup](screenshots/subnettoroutetable.png)
+![Route Table Setup](Screenshots/CreatingRouteTable.png)
+![Route Table Setup](Screenshots/subnettoroutetable.png)
 
 
 
@@ -78,9 +78,9 @@ This project demonstrates the process of building a secure and scalable network 
 - Used the **public EC2** as a bastion host to SSH into the private instance
 
 ### Screenshots:
-![Public EC2 Instance](screenshots/CreatePublicInstance.png)
-![Public EC2 Instance](screenshots/CreatePublicInstance2.png)
-![Private EC2 Instance](screenshots/CreatePrivateInstance.png)
+![Public EC2 Instance](Screenshots/CreatePublicInstance.png)
+![Public EC2 Instance](Screenshots/CreatePublicInstance2.png)
+![Private EC2 Instance](Screenshots/CreatePrivateInstance.png)
 
 ---
 
@@ -95,11 +95,11 @@ This project demonstrates the process of building a secure and scalable network 
  - script: `script.css`
  
 ### Screenshots:
-![s3 Bucket Creation](screenshots/Bucketcreation.png)
-![s3 Bucket Created](screenshots/bucketcreated.png)
-![Enabling Hosting](screenshots/Enablinghosting.png)
-![Bucket Policy](screenshots/BucketPolicy.png)
-![Website](screenshots/Website.png)
+![s3 Bucket Creation](Screenshots/Bucketcreation.png)
+![s3 Bucket Created](Screenshots/bucketcreated.png)
+![Enabling Hosting](Screenshots/Enablinghosting.png)
+![Bucket Policy](Screenshots/BucketPolicy.png)
+![Website](Screenshots/Website.png)
 
 
 ### Permissions
